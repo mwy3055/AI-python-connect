@@ -63,3 +63,5 @@ class LinearRegression(object):
     @property
     def intercept(self):
         return self._intercept
+
+    pass
